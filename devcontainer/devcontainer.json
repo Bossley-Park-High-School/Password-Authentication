@@ -6,7 +6,7 @@
       "version": "3.11"
     }
   },
-  "postCreateCommand": "pip requirements.txt",
+  "postCreateCommand": "pip -r requirements.txt",
   "customizations": {
     "vscode": {
       "extensions": [
